@@ -1,0 +1,13 @@
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/colib_static.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/colib_shared.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_closure.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_cond.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_copystack.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_echocli.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_echosvr.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_poll.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_setenv.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_specific.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/example_thread.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/edit_cache.dir
+/home/cjw/codespace/AnnotatedCode/libco/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,150 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "libco",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "colib_shared::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-colib_shared-Debug-86f68f6086a30b588375.json",
+					"name" : "colib_shared",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "colib_static::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-colib_static-Debug-7d024028174ffef2f885.json",
+					"name" : "colib_static",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_closure::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_closure-Debug-d50966f964442a8b58b3.json",
+					"name" : "example_closure",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_cond::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_cond-Debug-8dad3b211e3504311ad5.json",
+					"name" : "example_cond",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_copystack::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_copystack-Debug-a6ed706918f2e44fc2b6.json",
+					"name" : "example_copystack",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_echocli::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_echocli-Debug-eedfbfbf07ef9f7688d4.json",
+					"name" : "example_echocli",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_echosvr::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_echosvr-Debug-4b89b5414b420d4f4c9c.json",
+					"name" : "example_echosvr",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_poll::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_poll-Debug-aeaab38cc841e874afab.json",
+					"name" : "example_poll",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_setenv::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_setenv-Debug-55f23e63e2516d8f9091.json",
+					"name" : "example_setenv",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_specific::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_specific-Debug-006fd4f42b4f7c086fd0.json",
+					"name" : "example_specific",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "example_thread::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-example_thread-Debug-a65fdd21e659ead9970b.json",
+					"name" : "example_thread",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/cjw/codespace/AnnotatedCode/libco/build",
+		"source" : "/home/cjw/codespace/AnnotatedCode/libco"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

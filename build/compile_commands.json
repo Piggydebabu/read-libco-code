@@ -1,0 +1,97 @@
+[
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/colib_static.dir/co_epoll.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/co_epoll.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/co_epoll.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/colib_static.dir/co_hook_sys_call.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/co_hook_sys_call.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/co_hook_sys_call.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/colib_static.dir/co_routine.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/co_routine.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/co_routine.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/colib_static.dir/coctx.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/coctx.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/coctx.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/gcc   -g -o CMakeFiles/colib_static.dir/coctx_swap.S.o -c /home/cjw/codespace/AnnotatedCode/libco/coctx_swap.S",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/coctx_swap.S"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++ -Dcolib_shared_EXPORTS  -g -fPIC -o CMakeFiles/colib_shared.dir/co_epoll.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/co_epoll.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/co_epoll.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++ -Dcolib_shared_EXPORTS  -g -fPIC -o CMakeFiles/colib_shared.dir/co_hook_sys_call.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/co_hook_sys_call.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/co_hook_sys_call.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++ -Dcolib_shared_EXPORTS  -g -fPIC -o CMakeFiles/colib_shared.dir/co_routine.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/co_routine.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/co_routine.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++ -Dcolib_shared_EXPORTS  -g -fPIC -o CMakeFiles/colib_shared.dir/coctx.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/coctx.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/coctx.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/gcc -Dcolib_shared_EXPORTS  -g -fPIC -o CMakeFiles/colib_shared.dir/coctx_swap.S.o -c /home/cjw/codespace/AnnotatedCode/libco/coctx_swap.S",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/coctx_swap.S"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_closure.dir/example_closure.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_closure.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_closure.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_cond.dir/example_cond.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_cond.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_cond.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_copystack.dir/example_copystack.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_copystack.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_copystack.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_echocli.dir/example_echocli.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_echocli.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_echocli.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_echosvr.dir/example_echosvr.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_echosvr.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_echosvr.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_poll.dir/example_poll.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_poll.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_poll.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_setenv.dir/example_setenv.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_setenv.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_setenv.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_specific.dir/example_specific.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_specific.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_specific.cpp"
+},
+{
+  "directory": "/home/cjw/codespace/AnnotatedCode/libco/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/example_thread.dir/example_thread.cpp.o -c /home/cjw/codespace/AnnotatedCode/libco/example_thread.cpp",
+  "file": "/home/cjw/codespace/AnnotatedCode/libco/example_thread.cpp"
+}
+]
